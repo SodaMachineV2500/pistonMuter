@@ -1,0 +1,6 @@
+name: PistonMuter
+version: ${project.version}
+main: de.sodamachinev2500.pistonmuter.PistonMuter
+api-version: 1.16
+depend: [ProtocolLib]
+description: Plugin for fixing TPS Lag by muting piston sounds
